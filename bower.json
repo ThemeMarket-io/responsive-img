@@ -1,0 +1,19 @@
+{
+  "name": "responsive-img",
+  "version": "0.0.0",
+  "description": "A responsive image plugin",
+  "keywords": [
+    "responsive"
+  ],
+  "authors": [
+    "ThemeMarket.io"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
